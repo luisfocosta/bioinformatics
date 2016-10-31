@@ -1,5 +1,6 @@
 # Input:  Two strings, Pattern and Genome
 # Output: A list containing all starting positions where Pattern appears as a substring of Genome
+
 def PatternMatching(Pattern, Genome):
     positions = [] # output variable
     count = 0 # output variable
